@@ -24,6 +24,7 @@ Contributions are always welcomed :D Make sure to follow [Contributing.md](/CONT
 <a href="https://github.com/tejas2510/Goonj/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=tejas2510/Goonj" />
 </a>
+<br>
 
 
 Made with 💖 and Kotlin!
