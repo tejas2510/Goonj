@@ -19,7 +19,7 @@ Old age is a time where the process of learning gets slower, adapting gets harde
 Just download the Smali code, build, and run the project :)
  </p>
  <p>
- Or just download the .apk from the link [here](https://builder.andromo.com/projectV3/download/2335124/apk/)
+ Or just download the .apk from the link above 😄
 
 ## 📸 Screenshots
 <p float="left">
