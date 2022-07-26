@@ -1,0 +1,38 @@
+.class public Landroid/support/v4/media/MediaBrowserCompat$a;
+.super Ljava/lang/Object;
+.source "MediaBrowserCompat.java"
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Landroid/support/v4/media/MediaBrowserCompat;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x9
+    name = "a"
+.end annotation
+
+
+# direct methods
+.method public static a(Landroid/media/browse/MediaBrowser$MediaItem;)Landroid/media/MediaDescription;
+    .locals 0
+
+    .line 1
+    invoke-virtual {p0}, Landroid/media/browse/MediaBrowser$MediaItem;->getDescription()Landroid/media/MediaDescription;
+
+    move-result-object p0
+
+    return-object p0
+.end method
+
+.method public static b(Landroid/media/browse/MediaBrowser$MediaItem;)I
+    .locals 0
+
+    .line 1
+    invoke-virtual {p0}, Landroid/media/browse/MediaBrowser$MediaItem;->getFlags()I
+
+    move-result p0
+
+    return p0
+.end method

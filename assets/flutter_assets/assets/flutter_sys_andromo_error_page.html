@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Unexpected Error</title>
+    <link href="../google_fonts/OpenSans-Light.ttf" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css?family=Encode+Sans+Semi+Condensed:100,200,300,400" rel="stylesheet"> -->
+    <link href="error_page.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body class="loading">
+<div class="error-502__container">
+    <div class="error-502">
+        <div class="error-502__text">
+            <h1>There was an error loading the page.<br/>Check your connection and try again.</h1><br><br><br>
+        </div>
+    </div>
+</div>
+<div class="gears">
+    <div class="gear one">
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+    </div>
+    <div class="gear two">
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+    </div>
+    <div class="gear three">
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+    </div>
+</div>
+
+<script src="jquery-3.6.0.min.js"></script>
+<script>
+    $(function() {
+        setTimeout(function(){
+            $('body').removeClass('loading');
+        }, 1000);
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,45 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: klay.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- png
+- jpeg
+- mp3
+- jpg
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '19'
+  targetSdkVersion: '30'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  LICENSE-junit.txt: '8'
+  androidsupportmultidexversion.txt: '8'
+  firebase-annotations.properties: '8'
+  firebase-appcheck-interop.properties: '8'
+  firebase-auth-interop.properties: '8'
+  firebase-auth.properties: '8'
+  firebase-common.properties: '8'
+  firebase-components.properties: '8'
+  firebase-storage.properties: '8'
+  play-services-auth-api-phone.properties: '8'
+  play-services-base.properties: '8'
+  play-services-basement.properties: '8'
+  play-services-safetynet.properties: '8'
+  play-services-tasks.properties: '8'
+  junit/runner/logo.gif: '8'
+  junit/runner/smalllogo.gif: '8'
+  okhttp3/internal/publicsuffix/NOTICE: '8'
+  okhttp3/internal/publicsuffix/publicsuffixes.gz: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.6.1
+versionInfo:
+  versionCode: '1006'
+  versionName: 1.0.0

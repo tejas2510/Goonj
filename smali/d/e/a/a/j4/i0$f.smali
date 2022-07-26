@@ -1,0 +1,19 @@
+.class public interface abstract Ld/e/a/a/j4/i0$f;
+.super Ljava/lang/Object;
+.source "Loader.java"
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Ld/e/a/a/j4/i0;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x609
+    name = "f"
+.end annotation
+
+
+# virtual methods
+.method public abstract k()V
+.end method
