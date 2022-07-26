@@ -11,6 +11,8 @@
 - Devotional songs, segregated based on Hindu gods/godesses
 - Simple & Minimalistic design
  
+## ❓How to use
+
 ## 📸 Screenshots
 
 
@@ -23,4 +25,4 @@ Contributions are always welcomed :D Make sure to follow [Contributing.md](/CONT
 </a>
 
 
-Made with 💖 and !
+Made with 💖 and Kotlin!
